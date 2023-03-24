@@ -1,2 +1,2 @@
 # pokedex
-Aplicação com Angular 12+
+Aplicação com HTML, CSS e JavaScript
